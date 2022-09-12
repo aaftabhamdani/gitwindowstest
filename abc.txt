@@ -1,2 +1,2 @@
 This is the sample code
-One more line is added
+This is third line
